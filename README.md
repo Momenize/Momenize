@@ -1,5 +1,5 @@
-👋 Hey there, It's Mojtaba Momenaei (have gotten so many names in my life of 20: Poposchi, Moji, Momen, Momenize, MMTD and so on...)
-
+👋 Hey there, It's Mojtaba Momenaei
+----------
 Welcome to my GitHub profile!
 
 🎓 About Me
@@ -15,37 +15,50 @@ Welcome to my GitHub profile!
     🚀 Junior Backend Developer at Control Adad for the past 6 months:
         Specializing in ASP.NET Core to craft robust backend solutions.
         
-🎸 Hobbies & Interests
+🛠️ Tools and Technologies
 
-    🎶 Music Nerd:
-        A proud metalhead, yet obsessed with classical shit. I fancy everything that came out before 1995. Also Taylor Swift sucks.
-    ⚽ Mid-Pro Futsal Player:
-        Balancing tech with some serious footwork on the court.
-    🌌 Night Owl Turned Morning Bird:
-        Transitioning from long nights of coding to embracing early mornings (trying, at least!).
-    🚭 Smoker:
-        Ok, I'm quitting.
+Languages
+-------------------------------------------------------------------------------------------------
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-🌟 Skills and Personality
+Frameworks
+-------------------------------------------------------------------------------------------------
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-    Development:
-        Backend expertise with C# and ASP.NET Core.
-        Enjoy tackling algorithmic challenges and crafting efficient solutions.
+IDEs/Editors
+-------------------------------------------------------------------------------------------------
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-    Teaching:
-        Passionate about helping others learn English and Mathematics.
+Tools
+-------------------------------------------------------------------------------------------------
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-    Versatile Mindset:
-        I’m all about diving into challenges and finding ways to make things more complex.
+Operating Systems
+-------------------------------------------------------------------------------------------------
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-📈 Fun Facts
-
-    I touch myself at nights. 
-    Haha just joking, I do it all day long.
+Databases
+-------------------------------------------------------------------------------------------------
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 📫 Connect with Me
 
 Want to chat, collaborate, share playlists or even flirt? Reach out:
 
-    📧 Email: [mojtabamomenaei@gmail.com]
-    🌐 LinkedIn: [https://www.linkedin.com/in/mojtabamomenaei/]
+📧 Email: mojtabamomenaei@gmail.com
+
+🌐 [LinkedIn](https://www.linkedin.com/in/mojtabamomenaei)
+
+📸 [Instagram](https://www.instagram.com/momenize)
+    
