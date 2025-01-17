@@ -1,15 +1,51 @@
-Hi👋, This is Moji
+👋 Hey there, It's Mojtaba Momenaei (have gotten so many names in my life of 20: Poposchi, Moji, Momen, Momenize, MMTD and so on...)
 
-I'm currently a Computer Engineering Student. I'm 19.👨
+Welcome to my GitHub profile!
 
-I'm also the Computer Engineering Association secretary of our university.👨‍🎓
+🎓 About Me
 
-I'm planning to transfer to Bahonar University of Kerman, or if not possible, Azad University of Kerman. I think they'd be more efficient for me than my current university.💁‍♂️
+    🖥️ 3rd-Year Computer Engineering Student at Vali-e Asr University of Rafsanjan (VRU).
+    📅 Born in 2004, but a proud classic fancier with a love for the timeless.
+    🏫 Certified English Teacher with a TTC Certificate, earned during my 2nd year of university.
+    ➗ Skilled in Mathematics, There was a time I had a few students, They all failed math that year.
+    🎓 Former Computer Engineering Association Secretary (for 2 monthsa and I failed every task I was given. that's called some resume eh?)
+    
+💼 Professional Experience
 
-I'm learning C# and ASP.NET currently, hoping to build my backend developing career in future.👨‍💻
+    🚀 Junior Backend Developer at Control Adad for the past 6 months:
+        Specializing in ASP.NET Core to craft robust backend solutions.
+        
+🎸 Hobbies & Interests
 
-Flutter & Dart suck ass.👎
+    🎶 Music Nerd:
+        A proud metalhead, yet obsessed with classical shit. I fancy everything that came out before 1995. Also Taylor Swift sucks.
+    ⚽ Mid-Pro Futsal Player:
+        Balancing tech with some serious footwork on the court.
+    🌌 Night Owl Turned Morning Bird:
+        Transitioning from long nights of coding to embracing early mornings (trying, at least!).
+    🚭 Smoker:
+        Ok, I'm quitting.
 
-Also I hate The Lord of The Rings. Star Wars beats that in every manner.🌠
+🌟 Skills and Personality
 
-Don't text me at nights cause I'm not gonna respond. I'm busy saving people's lives (Yes I'm batman.). 🦇🦇
+    Development:
+        Backend expertise with C# and ASP.NET Core.
+        Enjoy tackling algorithmic challenges and crafting efficient solutions.
+
+    Teaching:
+        Passionate about helping others learn English and Mathematics.
+
+    Versatile Mindset:
+        I’m all about diving into challenges and finding ways to make things more complex.
+
+📈 Fun Facts
+
+    I touch myself at nights. 
+    Haha just joking, I do it all day long.
+
+📫 Connect with Me
+
+Want to chat, collaborate, share playlists or even flirt? Reach out:
+
+    📧 Email: [mojtabamomenaei@gmail.com]
+    🌐 LinkedIn: [https://www.linkedin.com/in/mojtabamomenaei/]
