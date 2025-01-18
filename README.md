@@ -54,7 +54,7 @@ Databases
 
 📫 Connect with Me
 
-Want to chat, collaborate, share playlists or even flirt? Reach out:
+Want to chat, collaborate or share playlists? Reach out:
 
 📧 Email: mojtabamomenaei@gmail.com
 
