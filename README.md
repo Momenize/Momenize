@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
     📅 Born in 2004, but a proud classic fancier with a love for the timeless.
     🏫 Certified English Teacher with a TTC Certificate, earned during my 2nd year of university.
     ➗ Skilled in Mathematics, There was a time I had a few students, They all failed math that year.
-    🎓 Former Computer Engineering Association Secretary (for 2 monthsa and I failed every task I was given. that's called some resume eh?)
+    🎓 Former Computer Engineering Association Secretary (for 2 months and I failed every task I was given. that's called some resume eh?)
     
 💼 Professional Experience
 
