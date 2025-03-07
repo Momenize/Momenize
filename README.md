@@ -5,17 +5,15 @@ Welcome to my GitHub profile!
 🎓 About Me
 
     🖥️ 3rd-Year Computer Engineering Student at Vali-e Asr University of Rafsanjan (VRU).
-    📅 Born in 2004, but a proud classic fancier with a love for the timeless.
+    📅 Born in 2004, too young to have adult jobs and too old to date 16 year olds.
     🏫 Certified English Teacher with a TTC Certificate, earned during my 2nd year of university.
     ➗ Skilled in Mathematics, There was a time I had a few students, They all failed math that year.
     🎓 Former Computer Engineering Association Secretary (for 2 months and I failed every task I was given. that's called some resume eh?)
     
 💼 Professional Experience
 
-    🚀 Junior Backend Developer at Control Adad for the past 6 months:
-        Specializing in ASP.NET Core to craft robust backend solutions.
+    🚀 Junior Backend Developer at Control Adad since Summer 2024, worked on several projects with ASP.NET Core.
         
-🛠️ Tools and Technologies
 
 Languages
 -------------------------------------------------------------------------------------------------
@@ -53,13 +51,18 @@ Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-📫 Connect with Me
+<br />
+
+### 📫 Connect with Me
 
 Want to chat, collaborate or share playlists? Reach out:
 
-📧 Email: mojtabamomenaei@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+    `mojtabamomenaei@gmail.com`
 
-🌐 [LinkedIn](https://www.linkedin.com/in/mojtabamomenaei)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[Mojtaba Momenaei](https://www.linkedin.com/in/mojtabamomenaei)
 
-📸 [Instagram](https://www.instagram.com/momenize)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[momenize](https://www.instagram.com/momenize)
     
