@@ -1,4 +1,4 @@
-👋 Hey there, It's Mojtaba Momenaei. I'm an undergraduate computer engineering student at Vali-e Asr university of Rafsanjan. 
+👋 Hey there, It's Mojtaba Momenaei. I'm a senior computer engineering student at Vali-e Asr university of Rafsanjan. 
 
 
 Want to chat, collaborate or share playlists? Reach out:
